@@ -16,9 +16,10 @@ To install CastBuddy, download it from the Mac App Store.
 ## 📖 How to Use CastBuddy
 
 Open the CastBuddy app on your Mac.
-
 → The app icon will appear in the system menu bar at the top.
-![App on System Menu](https://raw.githubusercontent.com/adrianopaladini/CastBuddy/main/systemmenu.png)
+
+<img src="https://raw.githubusercontent.com/adrianopaladini/CastBuddy/main/systemmenu.png" height="110" />
+
 
 
 - On your iPhone or iPad, swipe down from the top-right corner to open Control Center.
