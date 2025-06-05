@@ -11,3 +11,26 @@ For iPhone users, unlike Apple’s built-in mirroring, it displays the iPhone sc
 To install CastBuddy, download it from the Mac App Store.
 
 [![Download on the Mac App Store](https://developer.apple.com/assets/elements/icons/download-on-the-mac-app-store/download-on-the-mac-app-store.svg)](https://apps.apple.com/app/airplayable/id6746279741)
+
+
+## 📖 How to Use CastBuddy
+
+Open the CastBuddy app on your Mac.
+→ The app icon will appear in the system menu bar at the top.
+
+- On your iPhone or iPad, swipe down from the top-right corner to open Control Center.
+- Tap the Screen Mirroring (AirPlay) icon.
+- Select CastBuddy from the list of available devices.
+- That’s it! Your device screen will now be mirrored to your Mac. 🎉
+
+![How to start mirroring](https://raw.githubusercontent.com/adrianopaladini/CastBuddy/main/on.gif)
+
+
+## 🛑 How to Stop Mirroring
+
+- On your iPhone or iPad, open Control Center again.
+- Tap the Screen Mirroring (AirPlay) icon.
+- Tap Stop Mirroring.
+
+![How to stop mirroring](https://raw.githubusercontent.com/adrianopaladini/CastBuddy/main/off.gif)
+
